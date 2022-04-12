@@ -1,0 +1,11 @@
+
+nav.navbar {
+    background: #4caf4f65 !important;  
+}
+#freelancer {
+    background-image: url("img/freelancer.png");
+}
+
+#home {
+    background-image: url("img/background.jpg")
+}
